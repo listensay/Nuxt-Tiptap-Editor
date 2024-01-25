@@ -1,12 +1,16 @@
 <script lang="ts" setup>
-const value = ref('')
 </script>
 
 <template>
   <div>
-    <h1>editor</h1>
     <ClientOnly>
-      <TipTap v-model="value"></TipTap>
+      <Editor></Editor>
     </ClientOnly>
   </div>
 </template>
+
+<style>
+body {
+  @apply bg-slate-300 h-[100vh];
+}
+</style>
