@@ -1,9 +1,7 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: [
-    'nuxt-tiptap-editor'
-  ],
+  modules: ['nuxt-tiptap-editor', "@nuxtjs/tailwindcss"],
   tiptap: {
     prefix: "Tiptap", //prefix for Tiptap imports, composables not included
     lowlight: {
