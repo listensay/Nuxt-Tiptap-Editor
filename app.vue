@@ -3,14 +3,12 @@
 
 <template>
   <div>
-    <ClientOnly>
-      <Editor></Editor>
-    </ClientOnly>
+    <Editor></Editor>
   </div>
 </template>
 
 <style>
 body {
-  @apply bg-slate-300 h-[100vh];
+  @apply bg-slate-200 h-[100vh];
 }
 </style>
