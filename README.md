@@ -2,6 +2,10 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Show
+![alt 1](https://github.com/listensay/Nuxt-Tiptap-Editor/blob/main/%E9%A2%84%E8%A7%88%E5%9B%BE/2.png)
+![alt 2](https://github.com/listensay/Nuxt-Tiptap-Editor/blob/main/%E9%A2%84%E8%A7%88%E5%9B%BE/2.png)
+
 ## Setup
 
 Make sure to install the dependencies:
